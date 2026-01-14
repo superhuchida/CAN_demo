@@ -14,20 +14,7 @@ can_demo/
 │       └── CanDriver.cpp
 ├── main_tx.cpp
 ├── main_rx.cpp
-
-
-can_demo/
-├── CMakeLists.txt
-├── include/
-│   └── can/
-│       ├── CanFrame.hpp
-│       ├── CanInterface.hpp
-│       └── CanDriver.hpp
-├── src/
-│   └── can/
-│       └── CanDriver.cpp
-├── main_tx.cpp
-├── main_rx.cpp
+└── README.md
 ```
 
 ## Build & Run
