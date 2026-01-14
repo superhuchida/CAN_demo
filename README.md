@@ -2,11 +2,11 @@
 
 # Project structure
 can_demo 
-├── CMakeLists.txt
-├── include
-│   └── can
-│       ├── CanFrame.hpp
-│       ├── CanInterface.hpp
+  CMakeLists.txt
+  include
+    can
+      CanFrame.hpp
+      CanInterface.hpp
 │       └── CanDriver.hpp
 ├── src
 │   └── can
