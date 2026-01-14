@@ -1,18 +1,18 @@
 # CAN_demo
 
 # Project structure
-#can_demo/ \n
-#├── CMakeLists.txt\n
-#├── include/
-#│   └── can/
-#│       ├── CanFrame.hpp
-#│       ├── CanInterface.hpp
-#│       └── CanDriver.hpp
-#├── src/
-#│   └── can/
-#│       └── CanDriver.cpp
-#├── main_tx.cpp
-#├── main_rx.cpp
+can_demo 
+├── CMakeLists.txt
+├── include
+│   └── can
+│       ├── CanFrame.hpp
+│       ├── CanInterface.hpp
+│       └── CanDriver.hpp
+├── src
+│   └── can
+│       └── CanDriver.cpp
+├── main_tx.cpp
+├── main_rx.cpp
 
 # Build & Run
 Enable CAN interface (virtual example)
