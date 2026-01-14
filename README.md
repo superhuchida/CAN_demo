@@ -1,8 +1,8 @@
 # CAN_demo
 
 # Project structure
-#can_demo/
-#├── CMakeLists.txt
+#can_demo/ \n
+#├── CMakeLists.txt\n
 #├── include/
 #│   └── can/
 #│       ├── CanFrame.hpp
