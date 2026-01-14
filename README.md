@@ -1,4 +1,4 @@
-# CAN_demo
+# CAN_demo worked under Ubuntu 22.04
 
 ## Project structure
 ```bash
