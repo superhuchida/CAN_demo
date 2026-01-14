@@ -35,9 +35,9 @@ cmake ..
 make
 
 
-## Run (First terminals)
+## Run in two terminals, (first terminal)
 ./can_rx
 
-## Run (Second terminal)
+## Run (second terminal)
 ./can_tx
 
